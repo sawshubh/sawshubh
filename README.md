@@ -1,6 +1,6 @@
-# I'm Shubham Sawant👋
+![hello-23](https://user-images.githubusercontent.com/88046721/139590892-ace02a7f-b0a7-4427-87c7-99b033b323ad.gif)
 
-![pexels-magda-ehlers-2114014](https://user-images.githubusercontent.com/88046721/139574148-e31a9242-3fb2-4a0a-aff4-2174088c3a34.jpg)
+# I'm Shubham Sawant👋
 
 - 🔭 I’m currently working on Oximeter app
 - 🌱 I’m currently learning Python for data science
