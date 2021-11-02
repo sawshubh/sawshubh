@@ -1,6 +1,3 @@
-## Quote of the day
-![Quote](https://github-readme-quotes.herokuapp.com/quote)
-
 ## Hi, I'm Shubham Sawant👋
 
 - 🔭 I’m currently working on Oximeter app
