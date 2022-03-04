@@ -1,6 +1,5 @@
 ## Hi, I'm Shubham Sawant👋
 
-- 🔭 I’m currently working on Oximeter app
 - 🌱 I’m currently learning Python and PostgreSQL
 - 👯 I’m looking to collaborate on python project
 - 💬 Ask me about photoshop stuff
