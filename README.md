@@ -1,8 +1,8 @@
 ## Hi, I'm Shubham Sawant👋
 
-- 🌱 I’m currently learning Python and PostgreSQL
-- 👯 I’m looking to collaborate on python project
-- 💬 Ask me about photoshop stuff
+- 🌱 I’m learner / Coder / Photoshop Artist
+- 👯 I’m looking to collaborate on python / Java project
+- 💬 Ask me about photoshop  / coding stuff
 - 📫 How to reach me: sawshubh11@gmail.com
 - ⚡ Goals: Ace my programming skills
 
