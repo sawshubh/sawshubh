@@ -2,7 +2,7 @@
   Hi, It's Shubham Sawant here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 </h1>
 
-🌱 I’m learner / Coder / Photoshop
+🌱 I’m learner / Programmer
 <br>
 <br>
 📫 How to reach me: sawshubh11@gmail.com
