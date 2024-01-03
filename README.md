@@ -8,7 +8,7 @@
 📫 How to reach me: sawshubh11@gmail.com
 <br>
 <br>
-⚡ Aimbition: Ace my programming skills and be an S-tier developer. 
+⚡ Aimbition: Ace my programming skills and be an s-tier developer. 
 <br>
 <br>
 
